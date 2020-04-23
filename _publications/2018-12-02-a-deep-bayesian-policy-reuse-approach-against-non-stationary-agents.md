@@ -6,7 +6,7 @@ date: 2018-12-02
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 
 ---
-[Bibtex](http://tianpeiyang.github.io/files/neurips_deepbpr.bib)  [pdf](http://tianpeiyang.github.io/files/a-deep-bayesian-policy-reuse-approach-against-non-stationary-agents.pdf)
+[Bibtex](http://tianpeiyang.github.io/files/neurips_deepbpr.bib)
 
 
 This paper studies efficient policy detecting and reusing techniques when playing against non-stationary agents in Markov games. We propose a new deep BPR+ algorithm by extending the recent BPR+ algorithm with a neural network as the value-function approximator.
