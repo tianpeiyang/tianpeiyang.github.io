@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2020-04-30-Action Semantics Network Considering the Effects of Actions in Multiagent Systems
 date: 2020-04-30
 venue: 'Proceedings of International Conference on Learning Representation (ICLR)'
-
 ---
+[Bibtex](http://tianpeiyang.github.io/files/iclr_asn.bib)
   
   
 

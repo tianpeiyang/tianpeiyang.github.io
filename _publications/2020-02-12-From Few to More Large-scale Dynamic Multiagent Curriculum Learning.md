@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2020-02-12-From Few to More Large-scale Dynamic Multiagent Curriculum Learning
 date: 2020-02-12
 venue: 'Proceedings of AAAI Conference on Artificial Intelligence (AAAI)'
-
 ---
+[Bibtex](http://tianpeiyang.github.io/files/aaai_dyan.bib)
   
   
 
