@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Jan - Dec 2019: Research Intern
+* Jan 2019 - Dec 2019: Research Intern
   * Fuxi AI Lab in Netease.
   * Duties included: Machine Learning R&A Intern
 
@@ -26,10 +26,11 @@ Work experience
 
 Awards
 ======  
-I am currently serving as a reviewer for IEEE Transactions on Cognitive and Developmental Systems and a member of the program committee (NeurIPS, ECAI).
+I am currently serving as a reviewer for IEEE Transactions on Cognitive and Developmental Systems (TCDS) and a member of the program committee (NeurIPS, ECAI, ICLR, DAI).
 
 Chuxin Scholarship of Tianjin University, 2017.
 Honored as outstanding graduates of Tianjin University, 2017.
+Honored as outstanding graduates of Tianjin University, 2014.
 
 Skills
 ======

@@ -11,7 +11,7 @@ redirect_from:
 
 Hello there, I am currently a Ph.D. candidate in the College of Intelligence and Computing from Tianjin University. I received my M.S. degree in software engineering from Tianjin University in 2017 and B.E. degree from School of Computer Software at Tianjin University in 2014. My research interests include artificial intelligence, multi-agent systems and deep reinforcement learning. My research focuses on multiagent coordination, opponent modeling and norm emergence in MASs, transfer learning applied in multi-task RL and multiagent RL.
 
-I am currently serving as a reviewer for IEEE Transactions on Cognitive and Developmental Systems and a member of the program committee (NeurIPS, ECAI).
+I am currently serving as a reviewer for IEEE Transactions on Cognitive and Developmental Systems(TCDS) and a member of the program committee (NeurIPS, ICLR, ECAI, DAI).
 
 Publicatoins
 ======
