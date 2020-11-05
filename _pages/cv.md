@@ -24,9 +24,14 @@ Work experience
   * Noah's Ark Lab, Huawei.
   * Duties included: Deep Reinforcement Learning Intern
 
+Professional Services
+======  
+Program Committee Member: NeurIPS'2020, AAAI'2021, ICLR'2021, IJCAI'2021, ECAI'2020, DAI'2019.
+Journal Reviewer: IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+
 Awards
 ======  
-I am currently serving as a reviewer for IEEE Transactions on Cognitive and Developmental Systems (TCDS) and a member of the program committee (NeurIPS, ECAI, ICLR, DAI).
+* National Scholarship, 2020.
 
 * Chuxin Scholarship of Tianjin University, 2017.
 
