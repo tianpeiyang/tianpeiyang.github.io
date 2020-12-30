@@ -11,7 +11,7 @@ redirect_from:
 
 Hello there, I am currently a Ph.D. candidate in the College of Intelligence and Computing from Tianjin University, member of [DRRL](http://www.icdai.org), supervised by Professor [Jianye Hao](http://www.icdai.org/jianye.html). I received my M.S. degree in software engineering from Tianjin University in 2017 and B.E. degree from School of Computer Software at Tianjin University in 2014. My research interests focus on multiagent systems and deep reinforcement learning, especially on how to facilitate efficient, scalable RL and MARL through transfer learning, hierarchical RL, opponent modeling, and norm emergence in multiagent systems. 
 
-I am currently serving as a reviewer for IEEE Transactions on Cognitive and Developmental Systems (TCDS) and a member of the program committee (NeurIPS'2020, AAAI'2021, ICLR'2021, IJCAI'2021, ECAI'2020, DAI'2019).
+I am currently serving as a reviewer for IEEE Transactions on Cognitive and Developmental Systems (TCDS), a member of the program committee (NeurIPS'2020, AAAI'2021, ICLR'2021, ICML'2021, ECAI'2020, DAI'2019) and a member of the senior propogram committee (IJCAI'2021).
 
 Publicatoins
 ======
