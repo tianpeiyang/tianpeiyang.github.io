@@ -12,23 +12,26 @@ Education
 ======
 * B.S. in School of Computer Software, Tianjin University, 2014
 * M.S. in School of Computer Software, Tianjin University, 2017
-* Ph.D in College of Intelligence and Computing, Tianjin University, 2021 (expected)
+* Ph.D in College of Intelligence and Computing, Tianjin University, 2021 
 
-Work experience
+Experience
 ======
 * Jan 2019 - Dec 2019: Research Intern
   * Fuxi AI Lab in Netease.
   * Duties included: Machine Learning R&A Intern
 
-* Jan 2020 - until now: Research Intern
+* Jan 2020 - Mar 2021: Research Intern
   * Noah's Ark Lab, Huawei.
   * Duties included: Deep Reinforcement Learning Intern
 
+* Oct 2021 - Until now: Postdoctoral Fellow
+  * Intelligent Robot Learning Lab (IRL Lab), Computing Science at the University of Alberta.
+  
 Professional Services
 ======  
-Program Committee Member: NeurIPS'2020, AAAI'2021, ICLR'2021, IJCAI'2021, ECAI'2020, DAI'2019.
+Program Committee Member: NeurIPS'2020,2021, AAAI'2021,2022, ICLR'2021,2022, IJCAI'2021,2022, ECAI'2020, DAI'2019.
 
-Journal Reviewer: IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+Journal Reviewer: IEEE Transactions on Cognitive and Developmental Systems (TCDS), IEEE/CAA Journal of Automatica Sinica
 
 Awards
 ======  
@@ -39,12 +42,6 @@ Awards
 * Honored as outstanding graduates of Tianjin University, 2017.
 
 * Honored as outstanding graduates of Tianjin University, 2014.
-
-Skills
-======
-* Python
-  * Tensorflow
-  * Pytorch
 
 <a href="https://tianpeiyang.github.io/publications/">Publications</a>
 ======
