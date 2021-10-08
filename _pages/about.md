@@ -17,13 +17,15 @@ Publicatoins
 ======
 1. Transfer among Agents: An Efficient Multiagent Transfer Learning Framework. Tianpei Yang et al. NeurIPS. 2021. [preprint](https://arxiv.org/pdf/2002.08030)
 
-2. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. Tianpei Yang et al. IJCAI. 2020. [Bibtex](http://tianpeiyang.github.io/files/IJCAI2020_ptf.bib) 
+2. Exploration in Deep Reinforcement Learning: A Comprehensive Survey. Tianpei Yang et al. 2021. [preprint](https://arxiv.org/pdf/2109.06668)
 
-3. Action Semantics Network: Considering the Effects of Actions in Multiagent Systems. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. ICLR. 2020. [Bibtex](http://tianpeiyang.github.io/files/iclr_asn.bib) 
+3. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. Tianpei Yang et al. IJCAI. 2020. [Bibtex](http://tianpeiyang.github.io/files/IJCAI2020_ptf.bib) 
 
-4. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [Bibtex](http://tianpeiyang.github.io/files/aaai_dyan.bib) 
+4. Action Semantics Network: Considering the Effects of Actions in Multiagent Systems. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. ICLR. 2020. [Bibtex](http://tianpeiyang.github.io/files/iclr_asn.bib) 
 
-5. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. Tianpei Yang et al. IJCAI. 2019. [Bibtex](http://tianpeiyang.github.io/files/ijcai_bayes_tomop.bib) 
+5. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [Bibtex](http://tianpeiyang.github.io/files/aaai_dyan.bib) 
+
+6. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. Tianpei Yang et al. IJCAI. 2019. [Bibtex](http://tianpeiyang.github.io/files/ijcai_bayes_tomop.bib) 
 
 <a href="https://tianpeiyang.github.io/publications">more papers</a>
 
