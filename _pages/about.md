@@ -19,13 +19,13 @@ Publicatoins
 
 2. Exploration in Deep Reinforcement Learning: A Comprehensive Survey. Tianpei Yang et al. 2021. [preprint](https://arxiv.org/abs/2109.06668)
 
-3. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. Tianpei Yang et al. IJCAI. 2020. [Bibtex](http://tianpeiyang.github.io/files/IJCAI2020_ptf.bib) 
+3. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. Tianpei Yang et al. IJCAI. 2020. [url](https://www.ijcai.org/proceedings/2020/428) 
 
-4. Action Semantics Network: Considering the Effects of Actions in Multiagent Systems. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. ICLR. 2020. [Bibtex](http://tianpeiyang.github.io/files/iclr_asn.bib) 
+4. Action Semantics Network: Considering the Effects of Actions in Multiagent Systems. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. ICLR. 2020. [url](https://openreview.net/forum?id=ryg48p4tPH) 
 
-5. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [Bibtex](http://tianpeiyang.github.io/files/aaai_dyan.bib) 
+5. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [url](https://ojs.aaai.org//index.php/AAAI/article/view/6221) 
 
-6. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. Tianpei Yang et al. IJCAI. 2019. [Bibtex](http://tianpeiyang.github.io/files/ijcai_bayes_tomop.bib) 
+6. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. Tianpei Yang et al. IJCAI. 2019. [url](https://www.ijcai.org/proceedings/2019/88) 
 
 <a href="https://tianpeiyang.github.io/publications">more papers</a>
 
