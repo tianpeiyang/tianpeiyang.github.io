@@ -15,7 +15,7 @@ I am currently serving as a reviewer for IEEE TCDS and IEEE/CAA, a member of the
 
 Publicatoins
 ======
-1. Transfer among Agents: An Efficient Multiagent Transfer Learning Framework. Tianpei Yang et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
+1. An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning. Tianpei Yang et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
 
 2. Exploration in Deep Reinforcement Learning: A Comprehensive Survey. Tianpei Yang et al. 2021. [preprint](https://arxiv.org/abs/2109.06668)
 
