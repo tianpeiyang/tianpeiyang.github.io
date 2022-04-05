@@ -35,6 +35,8 @@ Journal Reviewer: IEEE Transactions on Cognitive and Developmental Systems (TCDS
 
 Awards
 ======  
+* Honored as Outstanding Doctoral Dissertation Award of Tianjin University, 2021. 
+
 * National Scholarship, 2020.
 
 * Chuxin Scholarship of Tianjin University, 2017.
