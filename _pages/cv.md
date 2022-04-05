@@ -31,7 +31,7 @@ Professional Services
 ======  
 Program Committee Member: NeurIPS'2020,2021, AAAI'2021,2022, ICLR'2021,2022, IJCAI'2021,2022, ECAI'2020, DAI'2019.
 
-Journal Reviewer: IEEE Transactions on Cognitive and Developmental Systems (TCDS), IEEE/CAA Journal of Automatica Sinica
+Journal Reviewer: Transactions on Machine Learning Research (TMLR), IEEE Transactions on Cognitive and Developmental Systems (TCDS), IEEE/CAA Journal of Automatica Sinica
 
 Awards
 ======  
