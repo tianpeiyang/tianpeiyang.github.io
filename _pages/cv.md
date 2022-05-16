@@ -29,15 +29,15 @@ Experience
   
 Professional Services
 ======  
-Program Committee Member: NeurIPS'2020,2021,2022, ICML'2021, 2022, AAAI'2021,2022, ICLR'2021,2022, IJCAI'2021,2022, CoRL'2021, 2022, ECAI'2020, DAI'2019.
+* Program Committee Member: NeurIPS'2020,2021,2022, ICML'2021, 2022, AAAI'2021,2022, ICLR'2021,2022, IJCAI'2021,2022, CoRL'2021, 2022, ECAI'2020, DAI'2019.
 
-Journal Reviewer: Transactions on Machine Learning Research (TMLR), IEEE Transactions on Cognitive and Developmental Systems (TCDS), IEEE/CAA Journal of Automatica Sinica
+* Journal Reviewer: Transactions on Machine Learning Research (TMLR), IEEE Transactions on Cognitive and Developmental Systems (TCDS), IEEE/CAA Journal of Automatica Sinica
 
 Awards
 ======  
 * Honored as Outstanding Doctoral Dissertation Award of Tianjin University, 2021. 
 
-* Honored as outstanding graduates of Tianjin University, 2017.
+* Honored as outstanding graduates of Tianjin University, 2021.
 
 * National Scholarship, 2020.
 
