@@ -16,26 +16,28 @@ Education
 
 Experience
 ======
-* Jan 2019 - Dec 2019: Research Intern
-  * Fuxi AI Lab in Netease.
-  * Duties included: Machine Learning R&A Intern
+* Oct 2021 - Until now: Postdoctoral Fellow
+  * Intelligent Robot Learning Lab (IRL Lab), Computing Science at the University of Alberta.
 
 * Jan 2020 - Mar 2021: Research Intern
   * Noah's Ark Lab, Huawei.
   * Duties included: Deep Reinforcement Learning Intern
 
-* Oct 2021 - Until now: Postdoctoral Fellow
-  * Intelligent Robot Learning Lab (IRL Lab), Computing Science at the University of Alberta.
+* Jan 2019 - Dec 2019: Research Intern
+  * Fuxi AI Lab in Netease.
+  * Duties included: Machine Learning R&A Intern
   
 Professional Services
 ======  
-Program Committee Member: NeurIPS'2020,2021, AAAI'2021,2022, ICLR'2021,2022, IJCAI'2021,2022, ECAI'2020, DAI'2019.
+Program Committee Member: NeurIPS'2020,2021,2022, AAAI'2021,2022, ICLR'2021,2022, IJCAI'2021,2022, CoRL'2021, 2022, ECAI'2020, DAI'2019.
 
 Journal Reviewer: Transactions on Machine Learning Research (TMLR), IEEE Transactions on Cognitive and Developmental Systems (TCDS), IEEE/CAA Journal of Automatica Sinica
 
 Awards
 ======  
 * Honored as Outstanding Doctoral Dissertation Award of Tianjin University, 2021. 
+
+* Honored as outstanding graduates of Tianjin University, 2017.
 
 * National Scholarship, 2020.
 
