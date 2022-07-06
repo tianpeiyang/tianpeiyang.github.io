@@ -15,7 +15,7 @@ I am currently serving as a reviewer for IEEE TCDS and IEEE/CAA, a member of the
 
 News
 ======
-* Our paper (Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence) got accepted at UAI 2022!
+* Our paper ([Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence](https://openreview.net/forum?id=ShN3hPUsce5)) got accepted at UAI 2022!
 
 * Our paper ([PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration](https://arxiv.org/abs/2203.08553)) got accepted at ICML 2022!
 
