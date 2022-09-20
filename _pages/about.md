@@ -15,28 +15,32 @@ I am currently serving as a reviewer for IEEE TCDS and IEEE/CAA, a member of the
 
 News
 ======
+* Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://arxiv.org/abs/2205.13728)) got accepted at NeurIPS 2022!
+
 * Our paper ([Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence](https://openreview.net/forum?id=ShN3hPUsce5)) got accepted at UAI 2022!
 
-* Our paper ([PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration](https://arxiv.org/abs/2203.08553)) got accepted at ICML 2022!
+* Our paper ([PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration](https://proceedings.mlr.press/v162/li22s.html)) got accepted at ICML 2022!
 
 
 Publicatoins
 ======
-1. Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence. Heng You, **Tianpei Yang*** et al. UAI. 2022.
+1. GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis. Yushi Cao, Zhiming Li, **Tianpei Yang*** (Corresponding author) et al. NeurIPS. 2022. [preprint](https://arxiv.org/abs/2205.13728)
 
-2. PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration. Pengyi Li, Hongyao Tang, **Tianpei Yang** et al. ICML. 2022. [preprint](https://arxiv.org/abs/2203.08553)
+2. Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence. Heng You, **Tianpei Yang*** (Corresponding author) et al. UAI. 2022.
 
-3. An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning. Tianpei Yang et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
+3. PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration. Pengyi Li, Hongyao Tang, **Tianpei Yang** et al. ICML. 2022. [url]([https://arxiv.org/abs/2203.08553](https://proceedings.mlr.press/v162/li22s.html))
 
-4. Exploration in Deep Reinforcement Learning: A Comprehensive Survey. Tianpei Yang et al. 2021. [preprint](https://arxiv.org/abs/2109.06668)
+4. An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning. Tianpei Yang et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
 
-5. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. Tianpei Yang et al. IJCAI. 2020. [url](https://www.ijcai.org/proceedings/2020/428) 
+5. Exploration in Deep Reinforcement Learning: A Comprehensive Survey. Tianpei Yang et al. 2021. [preprint](https://arxiv.org/abs/2109.06668)
 
-6. Action Semantics Network: Considering the Effects of Actions in Multiagent Systems. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. ICLR. 2020. [url](https://openreview.net/forum?id=ryg48p4tPH) 
+6. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. Tianpei Yang et al. IJCAI. 2020. [url](https://www.ijcai.org/proceedings/2020/428) 
 
-7. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [url](https://ojs.aaai.org//index.php/AAAI/article/view/6221) 
+7. Action Semantics Network: Considering the Effects of Actions in Multiagent Systems. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. ICLR. 2020. [url](https://openreview.net/forum?id=ryg48p4tPH) 
 
-8. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. Tianpei Yang et al. IJCAI. 2019. [url](https://www.ijcai.org/proceedings/2019/88) 
+8. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [url](https://ojs.aaai.org//index.php/AAAI/article/view/6221) 
+
+9. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. Tianpei Yang et al. IJCAI. 2019. [url](https://www.ijcai.org/proceedings/2019/88) 
 
 <a href="https://tianpeiyang.github.io/publications">more papers</a>
 
