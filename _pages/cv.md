@@ -45,10 +45,11 @@ Professional Services
   * DAI'2019
 
 * Journal Reviewer: 
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   * Journal of Marchine Learning Research (JMLR)
   * Transactions on Machine Learning Research (TMLR)
   * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
-  * IEEE/CAA Journal of Automatica Sinica
+  * IEEE/CAA Journal of Automatica Sinica (IEEE/CAA)
 
 Awards
 ======  
