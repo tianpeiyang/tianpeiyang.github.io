@@ -11,7 +11,7 @@ redirect_from:
 
 Hello there, I am currently a Postdoctoral Researcher in [Intelligent Robot Learning Lab](https://irll.ca/) at the University of Alberta, advised by [Matthew E. Taylor](https://drmatttaylor.net/). I received my Ph.D. in the College of Intelligence and Computing from Tianjin University, supervised by Professor [Jianye Hao](http://www.icdai.org/jianye.html). I received my M.S. degree in software engineering from Tianjin University in 2017 and B.E. degree from School of Computer Software at Tianjin University in 2014. My research interests focus on deep reinforcement learning (DRL) and multiagent systems. I have done some work on exploring how to facilitate efficient, scalable RL and multiagent RL through transfer learning, hierarchical RL, and opponent modeling. I am also involved with several projects including model-based reinforcement learning, exploration in RL and human-in-the-loop RL. 
 
-I am currently serving as a reviewer for IEEE TCDS and IEEE/CAA, a member of the program committee (NeurIPS'2020,2021,2022, AAAI'2021,2022,2023, ICLR'2021,2022,2023, IJCAI'2021,2022, ICML'2021,2022, CoRL'2021, 2022, CIKM'2022, ECAI'2020, DAI'2019).
+I am currently serving as a reviewer for JMLR, TPAMI, TMLR, IEEE TCDS and IEEE/CAA, a member of program committee (NeurIPS'2020,2021,2022, AAAI'2021,2022,2023, ICLR'2021,2022,2023, IJCAI'2021,2022, ICML'2021,2022, CoRL'2021, 2022, CIKM'2022, ECAI'2020, DAI'2019).
 
 News
 ======
