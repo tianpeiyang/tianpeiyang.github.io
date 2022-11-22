@@ -15,6 +15,8 @@ I am currently serving as a reviewer for JMLR, TPAMI, TMLR, IEEE TCDS and IEEE/C
 
 News
 ======
+* Our paper (Learning to Shape Rewards using a Game of Two Partners) got accepted at AAAI 2023!
+
 * Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://arxiv.org/abs/2205.13728)) got accepted at NeurIPS 2022!
 
 * Our paper ([Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence](https://openreview.net/forum?id=ShN3hPUsce5)) got accepted at UAI 2022!
