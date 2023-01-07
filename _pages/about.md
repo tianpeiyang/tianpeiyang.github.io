@@ -15,6 +15,8 @@ I am currently serving as a reviewer for JMLR, TPAMI, TMLR, IEEE TCDS and IEEE/C
 
 News
 ======
+* Two papers (PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning, Transfer Learning based Agent for Automated Negotiation) got accepted at AAMAS 2023!
+
 * Our paper (Learning to Shape Rewards using a Game of Two Partners) got accepted at AAAI 2023!
 
 * Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://arxiv.org/abs/2205.13728)) got accepted at NeurIPS 2022!
