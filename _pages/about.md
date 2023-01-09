@@ -15,28 +15,30 @@ I am currently serving as a reviewer for JMLR, TPAMI, TMLR, IEEE TCDS and IEEE/C
 
 News
 ======
-* Two papers (PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning, Transfer Learning based Agent for Automated Negotiation) got accepted at AAMAS 2023!
+:new: [Jan 2023] Our paper (Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain) got accepted at TNNLS!
 
-* Our paper (Learning to Shape Rewards using a Game of Two Partners) got accepted at AAAI 2023!
+:new: [Jan 2023]  Two papers (PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning, Transfer Learning based Agent for Automated Negotiation) got accepted at AAMAS 2023 as Extended Abstract!
 
-* Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://arxiv.org/abs/2205.13728)) got accepted at NeurIPS 2022!
+:new: [Nov 2022] Our paper (Learning to Shape Rewards using a Game of Two Partners) got accepted at AAAI 2023!
 
-* Our paper ([Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence](https://openreview.net/forum?id=ShN3hPUsce5)) got accepted at UAI 2022!
+:new: [Sep 2022] Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://arxiv.org/abs/2205.13728)) got accepted at NeurIPS 2022!
 
-* Our paper ([PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration](https://proceedings.mlr.press/v162/li22s.html)) got accepted at ICML 2022!
+[May 2022] Our paper ([Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence](https://openreview.net/forum?id=ShN3hPUsce5)) got accepted at UAI 2022!
+
+[May 2022] Our paper ([PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration](https://proceedings.mlr.press/v162/li22s.html)) got accepted at ICML 2022!
 
 
 Publicatoins
 ======
-1. GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis. Yushi Cao, Zhiming Li, **Tianpei Yang*** (Corresponding author) et al. NeurIPS. 2022. [preprint](https://arxiv.org/abs/2205.13728)
+1. Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain Tianpei Yang et al. TNNLS. 2023. [preprint](https://arxiv.org/abs/2109.06668)
 
-2. Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence. Heng You, **Tianpei Yang*** (Corresponding author) et al. UAI. 2022.
+2. GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis. Yushi Cao, Zhiming Li, **Tianpei Yang*** (Corresponding author) et al. NeurIPS. 2022. [preprint](https://arxiv.org/abs/2205.13728)
 
-3. PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration. Pengyi Li, Hongyao Tang, **Tianpei Yang** et al. ICML. 2022. [url]([https://arxiv.org/abs/2203.08553](https://proceedings.mlr.press/v162/li22s.html))
+3. Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence. Heng You, **Tianpei Yang*** (Corresponding author) et al. UAI. 2022.
 
-4. An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning. Tianpei Yang et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
+4. PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration. Pengyi Li, Hongyao Tang, **Tianpei Yang** et al. ICML. 2022. [url]([https://arxiv.org/abs/2203.08553](https://proceedings.mlr.press/v162/li22s.html))
 
-5. Exploration in Deep Reinforcement Learning: A Comprehensive Survey. Tianpei Yang et al. 2021. [preprint](https://arxiv.org/abs/2109.06668)
+5. An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning. Tianpei Yang et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
 
 6. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. Tianpei Yang et al. IJCAI. 2020. [url](https://www.ijcai.org/proceedings/2020/428) 
 
