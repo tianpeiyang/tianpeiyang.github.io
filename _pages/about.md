@@ -15,15 +15,15 @@ I am currently serving as a reviewer for JMLR, TPAMI, TMLR, IEEE TCDS and IEEE/C
 
 News
 ======
-:new: [Jan 2023] Our paper (Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain) got accepted at TNNLS!
+&#x1F195;  [Jan 2023] Our paper (Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain) got accepted at TNNLS!
 
-:new: [Jan 2023]  Two papers (PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning, Transfer Learning based Agent for Automated Negotiation) got accepted at AAMAS 2023 as Extended Abstract!
+&#x1F195;  [Jan 2023]  Two papers (PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning, Transfer Learning based Agent for Automated Negotiation) got accepted at AAMAS 2023 as Extended Abstract!
 
-:new: [Dec 2022] I was invited as a PC of IJCAI 2023!
+&#x1F195;  [Dec 2022] I was invited as a PC of IJCAI 2023!
 
-:new: [Nov 2022] Our paper (Learning to Shape Rewards using a Game of Two Partners) got accepted at AAAI 2023!
+&#x1F195;  [Nov 2022] Our paper (Learning to Shape Rewards using a Game of Two Partners) got accepted at AAAI 2023!
 
-:new: [Sep 2022] Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://arxiv.org/abs/2205.13728)) got accepted at NeurIPS 2022!
+&#x1F195;  [Sep 2022] Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://arxiv.org/abs/2205.13728)) got accepted at NeurIPS 2022!
 
 [May 2022] Our paper ([Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence](https://openreview.net/forum?id=ShN3hPUsce5)) got accepted at UAI 2022!
 
