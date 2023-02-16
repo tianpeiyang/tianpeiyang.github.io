@@ -3,7 +3,7 @@ title: "Accelerating Norm Emergence through Hierarchical Heuristic Learning"
 collection: publications
 permalink: /publication/2016-08-29-Accelerating-Norm-Emergence-through-Hierarchical-Heuristic-Learning
 date: 2016-08-29
-venue: 'Proceedings of European Conference on Artificial Intelligence (ECAI)'
+venue: 'Proceedings of European Conference on Artificial Intelligence (ECAI 2016)'
 ---
 [Bibtex](http://tianpeiyang.github.io/files/ecai_hhls.bib)
 

@@ -3,7 +3,7 @@ title: "A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agents"
 collection: publications
 permalink: /publication/2018-12-02-Towards-Efficient-Detection-and-Optimal-Response-against-Sophisticated-Opponents
 date: 2018-12-02
-venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
+venue: 'Advances in Neural Information Processing Systems (NeurIPS 2018)'
 
 ---
 [Bibtex](http://tianpeiyang.github.io/files/neurips_deepbpr.bib)

@@ -3,7 +3,7 @@ title: "Efficient Deep Reinforcement Learning Through Policy Transfer"
 collection: publications
 permalink: /publication/2020-05-13-Efficient-Deep-Reinforcement-Learning-Through-Policy-Transfer
 date: 2020-05-13
-venue: 'Proceedings of International Conference on Autonomous Agents and MultiAgent Systems (AAMAS)'
+venue: 'Proceedings of International Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2020)'
 ---
 [Bibtex](http://tianpeiyang.github.io/files/aamas2020_ptf.bib)
 

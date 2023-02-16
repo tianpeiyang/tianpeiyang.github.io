@@ -3,7 +3,7 @@ title: "Towards Efficient Detection and Optimal Response against Sophisticated O
 collection: publications
 permalink: /publication/2019-08-10-Towards-Efficient-Detection-and-Optimal-Response-against-Sophisticated-Opponents
 date: 2019-08-10
-venue: 'Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)'
+venue: 'Proceedings of International Joint Conference on Artificial Intelligence (IJCAI 2019)'
 
 ---
 [Bibtex](http://tianpeiyang.github.io/files/ijcai_bayes_tomop.bib)
