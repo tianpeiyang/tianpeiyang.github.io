@@ -1,9 +1,9 @@
 ---
 title: "Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence"
 collection: publications
-permalink: /publication/2022-05-15-Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence
+permalink: /publication/2022-05-15-Cross-domain-Adaptive-Transfer-Reinforcement-Learning-Based-on-State-Action-Correspondence
 date: 2022-05-15
-venue: 'The Thirty-eighth Conference on Uncertainty in Artificial Intelligence (UAI)'
+venue: 'The Thirty-eighth Conference on Uncertainty in Artificial Intelligence (UAI 2022)'
 ---
 [Bibtex](http://tianpeiyang.github.io/files/UAI2022_cat.bib)
 

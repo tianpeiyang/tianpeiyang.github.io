@@ -3,7 +3,7 @@ title: "An Efficient Transfer Learning Framework for Multiagent Reinforcement Le
 collection: publications
 permalink: /publication/2021-09-29-An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning
 date: 2021-09-29
-venue: 'Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)'
+venue: 'Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021)'
 ---
 [Bibtex](http://tianpeiyang.github.io/files/NeurIPS2021_maptf.bib)
 

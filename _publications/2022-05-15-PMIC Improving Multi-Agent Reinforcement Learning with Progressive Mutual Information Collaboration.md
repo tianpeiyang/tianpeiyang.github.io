@@ -1,9 +1,9 @@
 ---
 title: "PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration"
 collection: publications
-permalink: /publication/2022-05-15-PMIC Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration
+permalink: /publication/2022-05-15-PMIC-Improving-Multi-Agent-Reinforcement-Learning-with-Progressive-Mutual-Information-Collaboration
 date: 2022-05-15
-venue: 'The Thirty-ninth International Conference on Machine Learning (ICML)'
+venue: 'The Thirty-ninth International Conference on Machine Learning (ICML 2022)'
 ---
 [Bibtex](http://tianpeiyang.github.io/files/ICML2022_pmic.bib)
 
