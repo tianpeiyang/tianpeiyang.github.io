@@ -34,6 +34,9 @@ Experience
   * Advanced Artificial Intelligence
 * Sep 2017 - Dec 2017: Teaching Assistant
   * Advanced Big Data Algorithms
+
+
+
 Professional Services
 ======  
 * Program Committee Member: 
