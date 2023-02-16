@@ -30,7 +30,7 @@ News
 
 Publicatoins
 ======
-1. Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain. Jianye Hao, **Tianpei Yang** et al. TNNLS. 2023. [preprint](https://arxiv.org/abs/2109.06668)
+1. Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain. Jianye Hao (Phd Advisor), **Tianpei Yang** et al. TNNLS. 2023. [preprint](https://arxiv.org/abs/2109.06668)
 
 2. GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis. Yushi Cao, Zhiming Li, **Tianpei Yang*** (Corresponding author) et al. NeurIPS. 2022. [preprint](https://arxiv.org/abs/2205.13728)
 
