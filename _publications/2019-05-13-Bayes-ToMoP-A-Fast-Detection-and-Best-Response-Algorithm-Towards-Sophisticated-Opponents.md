@@ -3,7 +3,7 @@ title: "Bayes ToMoP: A Fast Detection and Best Response Algorithm Towards Sophis
 collection: publications
 permalink: /publication/2019-05-13-Bayes-ToMoP-A-Fast-Detection-and-Best-Response-Algorithm-Towards-Sophisticated-Opponents
 date: 2019-05-13
-venue: 'Proceedings of International Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2019)'
+venue: 'Proceedings of International Conference on Autonomous Agents and MultiAgent Systems (AAMAS)'
 ---
 [Bibtex](http://tianpeiyang.github.io/files/aamas_bayes_tomop.bib)
 
