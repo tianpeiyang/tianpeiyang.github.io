@@ -11,10 +11,12 @@ redirect_from:
 
 Hello there, I am currently a Postdoctoral Researcher in [Intelligent Robot Learning Lab](https://irll.ca/) at the University of Alberta, advised by [Matthew E. Taylor](https://drmatttaylor.net/). I received my Ph.D. in the College of Intelligence and Computing from Tianjin University, supervised by [Jianye Hao](http://www.icdai.org/jianye.html). I received my M.S. degree at Tianjin University in 2017 and B.E. degree at Tianjin University in 2014. My research interests focus on deep reinforcement learning (DRL) and multiagent systems. I have done some work on exploring how to facilitate efficient, scalable RL and multiagent RL through transfer learning, hierarchical RL, and opponent modeling. I am also involved with several projects including model-based reinforcement learning, exploration in RL and human-in-the-loop RL. 
 
-I am currently serving as a reviewer for JMLR, TPAMI, TMLR, IEEE TCDS and IEEE/CAA, a member of program committee (NeurIPS'2020,2021,2022, AAAI'2021,2022,2023, ICLR'2021,2022,2023, IJCAI'2021,2022,2023, ICML'2021,2022,2023, UAI'2023, CoRL'2021, 2022, CIKM'2022, ECAI'2020, DAI'2019).
+I am currently serving as a reviewer for JMLR, TPAMI, TMLR, IEEE TCDS and IEEE/CAA, a member of program committee (NeurIPS'2020,2021,2022,2023, AAAI'2021,2022,2023, ICLR'2021,2022,2023, IJCAI'2021,2022,2023, ICML'2021,2022,2023, UAI'2023, CoRL'2021,2022,2023, CIKM'2022, ECAI'2020, DAI'2019).
 
 News
 ======
+&#x1F195;[Mar 2023] I was invited as a PC of NeurIPS 2023 and CoRL 2023!
+
 &#x1F195;[Jan 2023] I was invited as a PC of UAI 2023!
 
 &#x1F195;[Jan 2023] Our paper (Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain) got accepted at TNNLS!
