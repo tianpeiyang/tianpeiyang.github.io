@@ -40,13 +40,13 @@ Experience
 Professional Services
 ======  
 * Program Committee Member: 
-  * NeurIPS'2020,2021,2022
+  * NeurIPS'2020,2021,2022,2023
   * ICML'2021,2022,2023
   * AAAI'2021,2022,2023
   * ICLR'2021,2022,2023
   * IJCAI'2021,2022,2023
   * UAI'2023
-  * CoRL'2021, 2022
+  * CoRL'2021,2022,2023
   * ECAI'2020
   * CIKM'2022
   * DAI'2019
@@ -63,7 +63,7 @@ Professional Services
 
 Awards
 ======  
-* PDFA travel award at University of Alberta, 2023.
+* PDFA travel award at University of Alberta, 2022.
 * Honored as Outstanding Doctoral Dissertation Award of CCF CMAS, 2022. 
 * Honored as Outstanding Doctoral Dissertation Award of Tianjin University, 2021. 
 * National Scholarship, 2020.
