@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianpei Yang"
 title_separator          : "-"
 name                     : &name "Tianpei Yang"
-description              : &description "Tianjin University"
+description              : &description "University of Alberta"
 url                      : https://tianpeiyang.github.io # the base hostname & protocol for your site e.g. "https://tianpeiyang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianpeiyang/tianpeiyang.github.io"
@@ -82,7 +82,7 @@ author:
   name             : "Tianpei Yang"
   avatar           : "new_profile.jpg"
   bio              : "Postdoctoral Fellow"
-  location         : "University of Alberta, Edmonton"
+  location         : "University of Alberta"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WPRygosAAAAJ"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "www.linkedin.com/in/tianpei-yang"
   orcid            : "https://orcid.org/0000-0002-5497-7146"
   pinterest        :
   soundcloud       :
