@@ -58,6 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+LinkedIn:
+  url: &LinkedIn
 facebook:
   username               :
   app_id                 :
