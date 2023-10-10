@@ -18,7 +18,7 @@ Working Experience
 ======
 * Oct 2021 - Until now: Postdoctoral Fellow 
   * Intelligent Robot Learning Lab (IRL Lab), Computing Science at the University of Alberta.
-  * Research on DRL and deep MARL. Also involved with several projects including chip design, fingerprinting, autonomous driving and human-in-the-loop RL.
+  * Research on DRL and deep MARL. Also involved with several projects including chip design, fingerprinting, autonomous driving, and human-in-the-loop RL.
 
 
 Experience
@@ -39,12 +39,16 @@ Experience
 
 Professional Services
 ======  
+* Area Chair:
+  * MRS'2023
 * Program Committee Member: 
   * NeurIPS'2020,2021,2022,2023
   * ICML'2021,2022,2023
-  * AAAI'2021,2022,2023
-  * ICLR'2021,2022,2023
+  * AAAI'2021,2022,2023,2024
+  * ICLR'2021,2022,2023,2024
   * IJCAI'2021,2022,2023
+  * AAMAS'2024
+  * ICRA'2024
   * UAI'2023
   * CoRL'2021,2022,2023
   * ECAI'2020
@@ -53,10 +57,14 @@ Professional Services
 
 * Journal Reviewer: 
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-  * Journal of Marchine Learning Research (JMLR)
+  * Journal of Machine Learning Research (JMLR)
+  * Machine Learning (MACH)
+  * International Journal of Machine Learning and Cybernetics (JMLC)
   * Transactions on Machine Learning Research (TMLR)
   * IEEE Transactions on Cognitive and Developmental Systems (TCDS)
   * IEEE/CAA Journal of Automatica Sinica (IEEE/CAA)
+  * Neurocomputing
+    
 * Organizing Committee
   * SMARTS Driving Competition on NeurIPS 2022
 
