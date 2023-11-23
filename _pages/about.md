@@ -15,7 +15,11 @@ I am currently serving as a reviewer for JMLR, TPAMI, TMLR, MACH, JMLC, IEEE TCD
 
 News
 ======
-&#x1F195;[Oct 2023] Our paper (ASN: Action Semantics Network for Multiagent Reinforcement Learning) has been accepted by Autonomous Agents and Multi-Agent Systems(JAAMAS)!
+&#x1F195;[Nov 2023] Our paper (Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities) has been accepted by Journal of Artificial Intelligence Research(JAIR)!
+
+&#x1F195;[Oct 2023] Two papers (PADDLE: Logic Program Guided Policy Reuse in Deep Reinforcement Learning, Work-in-Progress: Using Symbolic Planning with Deep RL ) have been accepted by GenPlan Workshop NeurIPS 2023! One paper (Reinforcement Learning for FPGA Placement) has been accepted by MlSys Workshop NeurIPS 2023!
+
+&#x1F195;[Oct 2023] Our paper ([ASN: Action Semantics Network for Multiagent Reinforcement Learning](https://dl.acm.org/doi/abs/10.1007/s10458-023-09628-3)) has been accepted by Autonomous Agents and Multi-Agent Systems(JAAMAS)!
 
 &#x1F195;[July-Sep 2023] I was invited as a PC of AAAI 2024, ICRA 2024, ICLR 2024, and AAMAS 2024!
 
@@ -32,7 +36,7 @@ Two papers ([PORTAL: Automatic Curricula Generation for Multiagent Reinforcement
 
 &#x1F195;  [Dec 2022] I was invited as a PC of IJCAI 2023 and ICML 2023!
 
-&#x1F195;  [Nov 2022] Our paper ([Learning to Shape Rewards using a Game of Two Partners](https://ojs.aaai.org/index.php/AAAI/article/view/26371)) got accepted at AAAI 2023!
+&#x1F195;  [Nov 2022] Our paper ([Learning to Shape Rewards using a Game of Two Partners](https://ojs.aaai.org/index.php/AAAI/article/view/26371)) got accepted at AAAI 2023! One paper (Efficient Deep Reinforcement Learning via Policy-extended Successor Feature Approximator) got accepted at DAI 2022!
 
 &#x1F195;  [Sep 2022] Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://openreview.net/forum?id=XSV1T9jMuz9)) got accepted at NeurIPS 2022!
 
