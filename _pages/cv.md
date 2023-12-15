@@ -41,9 +41,10 @@ Professional Services
 ======  
 * Area Chair:
   * MRS'2023
+    
 * Program Committee Member: 
   * NeurIPS'2020,2021,2022,2023
-  * ICML'2021,2022,2023
+  * ICML'2021,2022,2023,2024
   * AAAI'2021,2022,2023,2024
   * ICLR'2021,2022,2023,2024
   * IJCAI'2021,2022,2023
@@ -67,6 +68,7 @@ Professional Services
     
 * Organizing Committee
   * SMARTS Driving Competition on NeurIPS 2022
+  * AAAI 2024 CMASDL Workshop
 
 
 Awards
