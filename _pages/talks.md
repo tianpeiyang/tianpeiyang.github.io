@@ -1,9 +1,11 @@
 ---
-layout: archive
-permalink: /talks/
+permalink: /
+title: "Talks"
+excerpt: "Talks"
 author_profile: true
-redirect_from:
-  - /talks
+redirect_from: 
+  - /talks/
+  - /talks.html
 ---
 
 {% include base_path %}
@@ -40,9 +42,5 @@ Conference Talk
 * Aug 2019: Oral presentation (Towards efficient detection and optimal response against sophisticated opponents) at IJCAI 2019.
   * Macau, China.
 
-
-
-<a href="https://tianpeiyang.github.io/talks/">Talks</a>
-======
 
  
