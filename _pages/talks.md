@@ -1,12 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Talks"
-excerpt: "Talks"
+permalink: /talks/
 author_profile: true
-redirect_from: 
-  - /talks/
-  - /talks.html
 ---
+
 
 {% include base_path %}
 
