@@ -18,9 +18,9 @@ Recent News
 
 Year of 2023
 --
-&#x1F195;[Dec 2023] Two papers (PADDLE: Logic Program Guided Policy Reuse in Deep Reinforcement Learning, Mastering Robot Control through Point-based Reinforcement Learning with Pre-training) have been accepted by AAMAS 2024!
+&#x1F195;[Dec 2023] Two papers (PADDLE: Logic Program Guided Policy Reuse in Deep Reinforcement Learning, Mastering Robot Control through Point-based Reinforcement Learning with Pre-training) have been accepted by AAMAS 2024! 
 
-&#x1F195;[Dec 2023] Two papers (A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning, PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning) have been accepted by AAAI 2024!
+&#x1F195;[Dec 2023] Two papers (A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning, PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning) have been accepted by AAAI 2024! One paper (LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models) has been accepted by AAAI 2024 Workshop on Human-Centric Representation Learning!
 
 &#x1F195;[Nov 2023] Our paper (Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities) has been accepted by Journal of Artificial Intelligence Research (JAIR)!
 
