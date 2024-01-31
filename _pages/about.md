@@ -54,23 +54,25 @@ Year of 2022
 
 Publications
 ======
-1. Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain. Jianye Hao, **Tianpei Yang** et al. TNNLS. 2023. [url](https://ieeexplore.ieee.org/abstract/document/10021988)
+1. A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning. Tianpei Yang et al. AAAI. 2024.
 
-2. GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis. Yushi Cao, Zhiming Li, **Tianpei Yang*** (Corresponding author) et al. NeurIPS. 2022. [url](https://openreview.net/forum?id=XSV1T9jMuz9)
+2. ASN: Action Semantics Network for Multiagent Reinforcement Learning. Tianpei Yang et al. JAAMAS. 2024.
 
-3. Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence. Heng You, **Tianpei Yang*** (Corresponding author) et al. UAI. 2022.
+3. Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain. Jianye Hao, **Tianpei Yang** et al. TNNLS. 2023. [url](https://ieeexplore.ieee.org/abstract/document/10021988)
 
-4. PMIC: Improving Multi-Agent Reinforcement Learning with ProgressiveMutual Information Collaboration. Pengyi Li, Hongyao Tang, **Tianpei Yang** et al. ICML. 2022. [url](https://proceedings.mlr.press/v162/li22s.html)
+4. GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis. Yushi Cao, Zhiming Li, **Tianpei Yang*** (Corresponding author) et al. NeurIPS. 2022. [url](https://openreview.net/forum?id=XSV1T9jMuz9)
 
-5. An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning. Tianpei Yang et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
+5. Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence. Heng You, **Tianpei Yang*** (Corresponding author) et al. UAI. 2022.
 
-6. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. Tianpei Yang et al. IJCAI. 2020. [url](https://www.ijcai.org/proceedings/2020/428) 
+6. An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning. Tianpei Yang et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
 
-7. Action Semantics Network: Considering the Effects of Actions in Multiagent Systems. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. ICLR. 2020. [url](https://openreview.net/forum?id=ryg48p4tPH) 
+7. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. Tianpei Yang et al. IJCAI. 2020. [url](https://www.ijcai.org/proceedings/2020/428) 
 
-8. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [url](https://ojs.aaai.org//index.php/AAAI/article/view/6221) 
+8. Action Semantics Network: Considering the Effects of Actions in Multiagent Systems. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. ICLR. 2020. [url](https://openreview.net/forum?id=ryg48p4tPH) 
 
-9. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. Tianpei Yang et al. IJCAI. 2019. [url](https://www.ijcai.org/proceedings/2019/88) 
+9. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [url](https://ojs.aaai.org//index.php/AAAI/article/view/6221) 
+
+10. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. Tianpei Yang et al. IJCAI. 2019. [url](https://www.ijcai.org/proceedings/2019/88) 
 
 <a href="https://tianpeiyang.github.io/publications">more papers</a>
 
