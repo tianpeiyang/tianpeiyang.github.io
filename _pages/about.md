@@ -15,10 +15,14 @@ I am currently serving as a reviewer for JMLR, TPAMI, TMLR, MACH, JMLC, IEEE TCD
 
 Recent News
 ======
+Year of 2024
+--
+&#x1F195;[Mar 2024] One paper (FPGA Divide-and-Conquer Placement using Deep Reinforcement Learning) has been accepted by ISEDA 2024! 
+
+&#x1F195;[Feb 2024] Our paper (LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models) received a Best Paper Runner-Up award from the [HCRL@AAAI-24 workshop](https://hcrl-workshop.github.io/2024/papers.html)!
 
 Year of 2023
 --
-&#x1F195;[Mar 2024] One paper (FPGA Divide-and-Conquer Placement using Deep Reinforcement Learning) has been accepted by ISEDA 2024! 
 
 &#x1F195;[Dec 2023] Two papers (PADDLE: Logic Program Guided Policy Reuse in Deep Reinforcement Learning, Mastering Robot Control through Point-based Reinforcement Learning with Pre-training) have been accepted by AAMAS 2024! 
 
