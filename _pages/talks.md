@@ -10,6 +10,8 @@ author_profile: true
 
 Invited Talk
 ======
+* Aug 2024: Interpretable Reinforcement Learning through Inductive Logic Programming
+  * I was invited to give a talk at InterPol 2024 at RLC 2024.
 * Apr 2023: Cross-domain Adaptive Transfer Reinforcement Learning
   * I was invited to give a talk at the CCFAI Distinguished Dissertation Forum 2023.
 * Dec 2023: Recent Progress in Transfer Reinforcement Learning
