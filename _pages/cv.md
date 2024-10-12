@@ -42,16 +42,16 @@ Professional Services
 * Area Chair:
   * MRS'2023
     
-* Program Committee Member: 
-  * NeurIPS'2020,2021,2022,2023
+* (Senior) Program Committee Member: 
+  * NeurIPS'2020,2021,2022,2023,2024
   * ICML'2021,2022,2023,2024
-  * AAAI'2021,2022,2023,2024
-  * ICLR'2021,2022,2023,2024
+  * AAAI'2021,2022,2023,2024,2025
+  * ICLR'2021,2022,2023,2024,2025
   * IJCAI'2021,2022,2023,2024
-  * AAMAS'2024
+  * AAMAS'2024,2025
   * ICRA'2024
   * UAI'2023,2024
-  * CoRL'2021,2022,2023
+  * CoRL'2021,2022,2023,2024
   * ECAI'2020
   * CIKM'2022
   * DAI'2019
@@ -59,6 +59,7 @@ Professional Services
 * Journal Reviewer: 
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   * Journal of Machine Learning Research (JMLR)
+  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   * Machine Learning (MACH)
   * International Journal of Machine Learning and Cybernetics (JMLC)
   * Transactions on Machine Learning Research (TMLR)
