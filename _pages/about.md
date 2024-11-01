@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-Hello there, I am currently a Postdoctoral Researcher in [Intelligent Robot Learning Lab](https://irll.ca/) at the University of Alberta, advised by [Matthew E. Taylor](https://drmatttaylor.net/). I received my Ph.D. in the College of Intelligence and Computing from Tianjin University, supervised by [Jianye Hao](http://www.icdai.org/jianye.html). My research interests focus on deep reinforcement learning (DRL) and multiagent systems. I have worked on exploring how to facilitate efficient, scalable RL and multiagent RL through transfer learning, hierarchical RL, and opponent modeling. I am also involved with several projects including model-based reinforcement learning, exploration in RL, and human-in-the-loop RL. 
+Hello there, I am currently an Assistant Professor at [School of Intelligence Science and Technology at Nanjing University (Suzhou)](https://is.nju.edu.cn/main.htm). Before this, I was a Postdoctoral Researcher in [Intelligent Robot Learning Lab](https://irll.ca/) at the University of Alberta, advised by [Matthew E. Taylor](https://drmatttaylor.net/) from 2021 to 2024. I received my Ph.D. in 2021 in the College of Intelligence and Computing at Tianjin University, supervised by [Jianye Hao](http://www.icdai.org/jianye.html). My research interests focus on deep reinforcement learning (DRL) and multiagent systems. I have worked on exploring how to facilitate efficient, scalable RL and multiagent RL through transfer learning, hierarchical RL, and opponent modeling. I am also interested in model-based reinforcement learning, exploration in RL, and human-in-the-loop RL. 
 
 I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, IEEE TCDS, and IEEE/CAA, and a member of the (senior) program committee (NeurIPS, AAAI, ICLR, IJCAI, ICML, AAMAS, UAI, ICRA, CoRL, CIKM, ECAI, DAI).
 
-`I am looking for PhD students/research assistants starting in Fall 2025 or later, interested in (deep) reinforcement learning, multiagent learning, AI agent, or other exciting topics that attract you. If you are interested and have good programming skills and machine learning background, please email me your CV and transcripts.`
+`I am looking for PhD students/research assistants starting in Fall 2025 or later, interested in (deep) reinforcement learning, multiagent learning, AI agent, or other exciting topics that attract you. If you are interested and have good programming skills and a machine learning background, please email me your CV and transcripts.`
 
 Recent News
 ======
