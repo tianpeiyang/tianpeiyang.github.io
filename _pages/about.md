@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello there, I am currently an Assistant Professor at [School of Intelligence Science and Technology at Nanjing University (Suzhou)](https://is.nju.edu.cn/main.htm). Before this, I was a Postdoctoral Researcher in [Intelligent Robot Learning Lab](https://irll.ca/) at the University of Alberta, advised by [Matthew E. Taylor](https://drmatttaylor.net/) from 2021 to 2024. I received my Ph.D. in 2021 in the College of Intelligence and Computing at Tianjin University, supervised by [Jianye Hao](http://www.icdai.org/jianye.html). My research interests focus on deep reinforcement learning (DRL) and multiagent systems. I have worked on exploring how to facilitate efficient, scalable RL and multiagent RL through transfer learning, hierarchical RL, and opponent modeling. I am also interested in model-based reinforcement learning, exploration in RL, and human-in-the-loop RL. 
+Hello there, I am currently an Assistant Professor at [School of Intelligence Science and Technology at Nanjing University (Suzhou)](https://is.nju.edu.cn/main.htm). Before this, I was a Postdoctoral Researcher in [Intelligent Robot Learning Lab](https://irll.ca/) at the University of Alberta, advised by [Matthew E. Taylor](https://drmatttaylor.net/) from 2021 to 2024. I received my Ph.D. in 2021 at Tianjin University, supervised by [Jianye Hao](http://www.icdai.org/jianye.html). My research interests focus on AI agents, deep reinforcement learning (RL), and multiagent systems. I have worked on exploring how to facilitate efficient, scalable RL and multiagent RL through transfer learning, multi-task learning, hierarchical RL, and opponent modeling. I am also interested in model-based reinforcement learning, exploration in RL, and human-in-the-loop RL. 
 
 I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, IEEE TCDS, and IEEE/CAA, and a member of the (senior) program committee (NeurIPS, AAAI, ICLR, IJCAI, ICML, AAMAS, UAI, ICRA, CoRL, CIKM, ECAI, DAI).
 
@@ -21,7 +21,7 @@ Recent News
 Year of 2024
 --
 
-&#x1F195;[Oct 2024] I will join [School of Intelligence Science and Technology at Nanjing University (Suzhou)](https://is.nju.edu.cn/main.htm) this winter as an Assistant Professor! 
+&#x1F195;[Nov 2024] I recently joined [School of Intelligence Science and Technology at Nanjing University (Suzhou)](https://is.nju.edu.cn/main.htm) as an Assistant Professor! 
 
 &#x1F195;[Aug 2024] I was invited to give a talk at [InterPol workshop 2024](https://sites.google.com/view/interppol-workshop/program?authuser=0) at RLC 2024!
 
