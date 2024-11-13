@@ -16,7 +16,12 @@ Education
 
 Working Experience
 ======
-* Oct 2021 - Until now: Postdoctoral Fellow 
+* Nov 2024 - Until now: Assistant Professor 
+  * School of Intelligence Science and Technology, Nanjing University.
+  * Research on AI Agent and Reinforcement Learning. I am looking for PhD/Master students starting in Fall 2025 or later, interested in (deep) reinforcement learning, multiagent learning, AI Agent, or other exciting topics that attract you. If you are interested and have good programming skills and a machine learning background, please email me your CV and transcripts.
+
+
+* Oct 2021 - Oct 2024: Postdoctoral Fellow 
   * Intelligent Robot Learning Lab (IRL Lab), Computing Science at the University of Alberta.
   * Research on DRL and deep MARL. Also involved with several projects including chip design, fingerprinting, autonomous driving, and human-in-the-loop RL.
 
@@ -75,7 +80,7 @@ Professional Services
 Awards
 ======  
 * PDFA travel award at University of Alberta, 2022.
-* Honored as Outstanding Doctoral Dissertation Award of CCF CMAS, 2022. 
+* Honored as Outstanding Doctoral Dissertation Award of CCFAI CMAS, 2022. 
 * Honored as Outstanding Doctoral Dissertation Award of Tianjin University, 2021. 
 * National Scholarship, 2020.
 * Chuxin Scholarship of Tianjin University, 2017.
