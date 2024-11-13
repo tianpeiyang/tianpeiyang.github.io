@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianpei Yang"
 title_separator          : "-"
 name                     : &name "Tianpei Yang"
-description              : &description "University of Alberta"
+description              : &description "Nanjing University"
 url                      : https://tianpeiyang.github.io # the base hostname & protocol for your site e.g. "https://tianpeiyang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianpeiyang/tianpeiyang.github.io"
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Tianpei Yang', 'tpyang@tju.edu.cn', 'url', 'message']
+  allowedFields          : ['Tianpei Yang', 'tianpei.yang@nju.edu.cn', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Tianpei Yang"
   avatar           : "new_profile.jpg"
-  bio              : "Postdoctoral Fellow"
-  location         : "University of Alberta"
+  bio              : "Assistant Professor"
+  location         : "Nanjing University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WPRygosAAAAJ"
-  email            : "tpyang@tju.edu.cn"
+  email            : "tianpei.yang@nju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
