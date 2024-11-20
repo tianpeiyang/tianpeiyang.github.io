@@ -13,7 +13,7 @@ Hello there, I am currently an Assistant Professor at [School of Intelligence Sc
 
 I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, IEEE TCDS, and IEEE/CAA, and a member of the (senior) program committee (NeurIPS, AAAI, ICLR, IJCAI, ICML, AAMAS, UAI, ICRA, CoRL, CIKM, ECAI, DAI).
 
-`I am looking for PhD students/research assistants starting in Fall 2025 or later, interested in (deep) reinforcement learning, multiagent learning, AI agent, or other exciting topics that attract you. If you are interested and have good programming skills and a machine learning background, please email me your CV and transcripts.`
+`I am looking for PhD/Master students/research assistants starting in Fall 2025 or later, interested in (deep) reinforcement learning, multiagent learning, AI agent, or other exciting topics that attract you. If you are interested and have good programming skills and a machine learning background, please email me your CV, transcripts, and research proposal.`
 
 Recent News
 ======
