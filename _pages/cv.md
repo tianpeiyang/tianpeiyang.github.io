@@ -65,6 +65,7 @@ Professional Services
 * Journal Reviewer: 
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   * Journal of Machine Learning Research (JMLR)
+  * Artificial Intelligence (AI)
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   * Machine Learning (MACH)
   * International Journal of Machine Learning and Cybernetics (JMLC)
