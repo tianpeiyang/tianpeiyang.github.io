@@ -46,6 +46,7 @@ Professional Services
 ======  
 * Area Chair:
   * MRS'2023
+  * AAMAS'2025
     
 * (Senior) Program Committee Member: 
   * NeurIPS'2020,2021,2022,2023,2024
@@ -53,7 +54,7 @@ Professional Services
   * AAAI'2021,2022,2023,2024,2025
   * ICLR'2021,2022,2023,2024,2025
   * IJCAI'2021,2022,2023,2024
-  * AAMAS'2024,2025
+  * AAMAS'2024
   * ICRA'2024
   * UAI'2023,2024
   * CoRL'2021,2022,2023,2024
