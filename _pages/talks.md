@@ -10,14 +10,20 @@ author_profile: true
 
 Invited Talk
 ======
+* Nov 2024: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models
+  * I was invited to give a talk at CHIP 2024 (Fuzhou, China).
+* Oct 2024: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models
+  * I was invited to give a talk at CNCC 2024 (Hengdian, China).
+* Oct 2024: Reinforcement Learning in the Era of Large Language Models
+  * I was invited to give a talk at CNCC 2024 (Hengdian, China).
 * Aug 2024: Interpretable Reinforcement Learning through Inductive Logic Programming
-  * I was invited to give a talk at InterPol 2024 at RLC 2024.
+  * I was invited to give a talk at InterPol 2024 at RLC 2024 (Amherst, USA).
 * Apr 2023: Cross-domain Adaptive Transfer Reinforcement Learning
-  * I was invited to give a talk at the CCFAI Distinguished Dissertation Forum 2023.
+  * I was invited to give a talk at the CCFAI Distinguished Dissertation Forum 2023 (Online).
 * Dec 2023: Recent Progress in Transfer Reinforcement Learning
-  * I was invited to give a talk at the Young Scholar 2022 at Tongji University.
+  * I was invited to give a talk at the Young Scholar 2022 at Tongji University (Online).
 * Aug 2022: Transfer Reinforcement Learning: from single-agent to multiagent domains 
-  * I was invited to give a talk in the lab of [Mykola](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy) at Eindhoven University of Technology.
+  * I was invited to give a talk in the lab of [Mykola](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy) at Eindhoven University of Technology (Eindhoven, Netherlands).
 * July 2021: Efficient Deep Reinforcement Learning via Adaptive Policy Transfer 
   * I was invited to give a talk at CCFAI 2021 in Yantai, China.
 * July 2021: Transfer Learning for Efficient Deep Multiagent Reinforcement Learning 
@@ -27,7 +33,7 @@ Invited Talk
 
 Conference Talk
 ======
-* Feb 2024 (Coming soon): Oral presentation (A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning) at AAAI 2024.
+* Feb 2024: A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning at AAAI 2024.
   * Vancouver, Canada.
 * Aug 2022: Spotlight talk (Cross-domain Adaptive Transfer Reinforcement Learning) at UAI 2022.
   * Eindhoven, Netherlands.
