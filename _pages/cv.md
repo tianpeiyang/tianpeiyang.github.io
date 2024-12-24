@@ -81,6 +81,7 @@ Professional Services
 
 Awards
 ======  
+* Best Paper Runner-Up award from AAAI-24 HCRL workshop, 2024.
 * PDFA travel award at University of Alberta, 2022.
 * Honored as Outstanding Doctoral Dissertation Award of CCFAI CMAS, 2022. 
 * Honored as Outstanding Doctoral Dissertation Award of Tianjin University, 2021. 
