@@ -23,6 +23,8 @@ Recent News
 Year of 2024
 --
 
+&#x1F195;[Dec 2024] Two papers (Empowering Generalization for Deep Reinforcement Learning via Symbolic Planning, Taming Multi-Agent Reinforcement Learning with Estimator Variance Reduction) have been accepted by AAMAS 2025! 
+
 &#x1F195;[Nov 2024] I recently joined [School of Intelligence Science and Technology at Nanjing University (Suzhou)](https://is.nju.edu.cn/main.htm) as an Assistant Professor! 
 
 &#x1F195;[Aug 2024] I gave a talk at [InterPol workshop 2024](https://sites.google.com/view/interppol-workshop/program?authuser=0) at RLC 2024!
