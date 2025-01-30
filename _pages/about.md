@@ -20,6 +20,12 @@ I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, I
 Recent News
 ======
 
+Year of 2025
+--
+
+&#x1F195;[Jan 2025] Two papers (Towards Empowerment Gain through Causal Structure Learning in Model-Based RL, Causal Information Prioritization for Efficient Reinforcement Learning) have been accepted by ICLR 2025! 
+
+
 Year of 2024
 --
 
