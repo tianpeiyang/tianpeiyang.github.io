@@ -18,7 +18,7 @@ Working Experience
 ======
 * Nov 2024 - Until now: Assistant Professor 
   * School of Intelligence Science and Technology, Nanjing University.
-  * Research on AI Agent and Reinforcement Learning. I am looking for PhD/Master students starting in Fall 2025 or later, interested in (deep) reinforcement learning, multiagent learning, AI Agent, or other exciting topics that attract you. If you are interested and have good programming skills and a machine learning background, please email me your CV and transcripts.
+  * Research on AI Agent and Reinforcement Learning. I am looking for PhD students starting in Fall 2026 or later (masters/research assistants starting in Fall 2025 or later), interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal
 
 
 * Oct 2021 - Oct 2024: Postdoctoral Fellow 
@@ -40,8 +40,6 @@ Experience
 * Sep 2017 - Dec 2017: Teaching Assistant
   * Advanced Big Data Algorithms
 
-
-
 Professional Services
 ======  
 * Area Chair:
@@ -50,15 +48,15 @@ Professional Services
     
 * (Senior) Program Committee Member: 
   * NeurIPS'2020,2021,2022,2023,2024
-  * ICML'2021,2022,2023,2024
+  * ICML'2021,2022,2023,2024,2025
   * AAAI'2021,2022,2023,2024,2025
   * ICLR'2021,2022,2023,2024,2025
   * IJCAI'2021,2022,2023,2024
   * AAMAS'2024
   * ICRA'2024
-  * UAI'2023,2024
+  * UAI'2023,2024,2025
   * CoRL'2021,2022,2023,2024
-  * ECAI'2020
+  * ECAI'2020,2025
   * CIKM'2022
   * DAI'2019
 
@@ -81,7 +79,8 @@ Professional Services
 
 Awards
 ======  
-* Best Paper Runner-Up award from AAAI-24 HCRL workshop, 2024.
+* Zijin Scholar, Nanjing University, 2025.
+* Best Paper Runner-Up award from AAAI 2024 HCRL workshop, 2024.
 * PDFA travel award at University of Alberta, 2022.
 * Honored as Outstanding Doctoral Dissertation Award of CCFAI CMAS, 2022. 
 * Honored as Outstanding Doctoral Dissertation Award of Tianjin University, 2021. 
