@@ -23,6 +23,8 @@ Recent News
 Year of 2025
 --
 
+:new:[Apr 2025] One paper ([The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning](https://arxiv.org/abs/2502.15214)) has been accepted by IJCAI 2025 Survey Track! 
+
 &#x1F195;[Jan 2025] Two papers (Towards Empowerment Gain through Causal Structure Learning in Model-Based RL, Causal Information Prioritization for Efficient Reinforcement Learning) have been accepted by ICLR 2025! 
 
 
