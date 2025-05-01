@@ -22,6 +22,7 @@ Recent News
 
 Year of 2025
 --
+&#x1F195;[May 2025] Our paper (Reducing Variance of Stochastic Optimization for Approximating Nash Equilibria in Normal-Form Games) has been accepted by ICML 2025 as a Spotlight poster!
 
 &#x1F195;[Apr 2025] One paper ([The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning](https://arxiv.org/abs/2502.15214)) has been accepted by IJCAI 2025 Survey Track! 
 
