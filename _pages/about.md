@@ -15,7 +15,7 @@ My major research interests focus on AI Agent, deep Reinforcement Learning (RL),
 
 I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, IEEE TCDS, and IEEE/CAA, and a member of the (senior) program committee (NeurIPS, AAAI, ICLR, IJCAI, ICML, AAMAS, UAI, ICRA, CoRL, CIKM, ECAI, DAI).
 
-`I am looking for PhD students starting in Fall 2026 or later (masters/research assistants starting in Fall 2025 or later), interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal.`
+`I am looking for master/PhD students and research assistants starting in Fall 2026 or later, interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal.`
 
 Recent News
 ======
