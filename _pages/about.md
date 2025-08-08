@@ -11,7 +11,7 @@ redirect_from:
 
 Hello there, I am currently an Assistant Professor in [Reasoning and Learning Research Group](https://cs.nju.edu.cn/rl/) led by Yang Gao, at [School of Intelligence Science and Technology](https://is.nju.edu.cn/main.htm) at Nanjing University. Before this, I was a Postdoctoral Researcher in [Intelligent Robot Learning Lab](https://irll.ca/) and [RLAI](http://rlai.ualberta.ca/) at the University of Alberta from 2021 to 2024. I received my Ph.D. in 2021 at Tianjin University, supervised by [Jianye Hao](http://www.icdai.org/jianye.html). My PhD thesis is titled ‘Efficient Deep Multiagent Reinforcement Learning Based on Transfer Learning’.
 
-My major research interests focus on AI Agent, deep Reinforcement Learning (RL), and multiagent systems, especially in building intelligent agents with complex reasoning ability, high efficiency, generalization, and scalability through transfer/multi-task learning, hierarchical learning, and opponent modeling. I am also interested in exploring continuous learning in open scenarios. Currently, I am working on 1) how to effectively and efficiently build AI agents upon generative AI and RL techniques; 2) how to effectively transfer knowledge in cross-domain settings; 3) how to improve MARL exploration considering the communication protocol and causal effect; 4) how to improve RL generalization and interpretability via symbolic planning/causal reasoning/program synthesis. 
+My major research interests focus on deep Reinforcement Learning (RL), multiagent systems, and AI Agent, especially in building intelligent agents with complex reasoning ability, high efficiency, generalization, and scalability through transfer/multi-task learning, hierarchical learning, and opponent modeling. I am also interested in exploring continuous learning in open scenarios. Currently, I am working on 1) how to effectively and efficiently build AI agents upon generative AI and RL techniques; 2) how to effectively transfer knowledge in cross-domain settings; 3) how to improve MARL exploration considering the communication protocol and causal effect; 4) how to improve RL generalization and interpretability via symbolic planning/causal reasoning/program synthesis. 
 
 I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, IEEE TCDS, and IEEE/CAA, and a member of the (senior) program committee (NeurIPS, AAAI, ICLR, IJCAI, ICML, AAMAS, UAI, ICRA, CoRL, CIKM, ECAI, DAI).
 
@@ -20,18 +20,16 @@ I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, I
 Recent News
 ======
 
-Year of 2025
+2025
 --
-&#x1F195;[May 2025] Our paper (Reducing Variance of Stochastic Optimization for Approximating Nash Equilibria in Normal-Form Games) has been accepted by ICML 2025 as a Spotlight poster!
+&#x1F195;[May 2025] Our paper (Reducing Variance of Stochastic Optimization for Approximating Nash Equilibria in Normal-Form Games) has been accepted by ICML 2025 as a Spotlight poster (top 2.6%)!
 
 &#x1F195;[Apr 2025] One paper ([The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning](https://arxiv.org/abs/2502.15214)) has been accepted by IJCAI 2025 Survey Track! 
 
 &#x1F195;[Jan 2025] Two papers (Towards Empowerment Gain through Causal Structure Learning in Model-Based RL, Causal Information Prioritization for Efficient Reinforcement Learning) have been accepted by ICLR 2025! 
 
-
-Year of 2024
+2024
 --
-
 &#x1F195;[Dec 2024] Two papers (Empowering Generalization for Deep Reinforcement Learning via Symbolic Planning, Taming Multi-Agent Reinforcement Learning with Estimator Variance Reduction) have been accepted by AAMAS 2025! 
 
 &#x1F195;[Nov 2024] I recently joined [School of Intelligence Science and Technology at Nanjing University (Suzhou)](https://is.nju.edu.cn/main.htm) as an Assistant Professor! 
@@ -46,9 +44,8 @@ Year of 2024
 
 &#x1F195;[Feb 2024] Our paper (LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models) received a Best Paper Runner-Up award from the [HCRL@AAAI-24 workshop](https://hcrl-workshop.github.io/2024/papers.html)!
 
-Year of 2023
+2023
 --
-
 &#x1F195;[Dec 2023] Two papers (PADDLE: Logic Program Guided Policy Reuse in Deep Reinforcement Learning, Mastering Robot Control through Point-based Reinforcement Learning with Pre-training) have been accepted by AAMAS 2024! 
 
 &#x1F195;[Dec 2023] Two papers (A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning, PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning) have been accepted by AAAI 2024! One paper (LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models) has been accepted by AAAI 2024 Workshop on Human-Centric Representation Learning!
@@ -72,7 +69,7 @@ Year of 2023
 &#x1F195;[Jan 2023] Our paper ([Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain](https://ieeexplore.ieee.org/abstract/document/10021988)) got accepted at IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!
 Two papers ([PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3545946.3598967), [Transfer Learning based Agent for Automated Negotiation](https://dl.acm.org/doi/abs/10.5555/3545946.3599115)) got accepted at AAMAS 2023 as Extended Abstract!
 
-Year of 2022
+2022
 --
 &#x1F195;  [Dec 2022] I was invited as a PC of IJCAI 2023 and ICML 2023!
 
@@ -83,7 +80,7 @@ Year of 2022
 &#x1F195;  [May 2022] Our paper ([Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence](https://proceedings.mlr.press/v180/you22a.html)) got accepted at UAI 2022! One paper ([PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration](https://proceedings.mlr.press/v162/li22s.html)) got accepted at ICML 2022!
 
 
-Publications
+Selected Publications
 ======
 1. A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning. **Tianpei Yang** et al. AAAI. 2024. [url](https://ojs.aaai.org/index.php/AAAI/article/view/29571)
    
