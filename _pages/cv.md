@@ -18,11 +18,11 @@ Working Experience
 ======
 * Nov 2024 - Until now: Assistant Professor 
   * School of Intelligence Science and Technology, Nanjing University.
-  * Research on AI Agent and Reinforcement Learning. I am looking for PhD students starting in Fall 2026 or later (masters/research assistants starting in Fall 2025 or later), interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal
+  * Research on Reinforcement Learning, Multiagent Systems, and AI Agent. I am looking for PhD students starting in Fall 2026 or later, interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal
 
 
 * Oct 2021 - Oct 2024: Postdoctoral Fellow 
-  * Intelligent Robot Learning Lab (IRL Lab), Computing Science at the University of Alberta.
+  * RLAI, Computing Science at the University of Alberta.
   * Research on DRL and deep MARL. Also involved with several projects including chip design, fingerprinting, autonomous driving, and human-in-the-loop RL.
 
 
