@@ -22,7 +22,7 @@ Recent News
 
 2025
 --
-&#x1F195;[May 2025] Two papers (Parameter-Free Last-Iterate Convergence of Counterfactual Regret Minimization Algorithms, Multi-Agent Reinforcement Learning with Communication-Constrained Priors) have been accepted by NeurIPS 2025!
+&#x1F195;[Sep 2025] Two papers (Parameter-Free Last-Iterate Convergence of Counterfactual Regret Minimization Algorithms, Multi-Agent Reinforcement Learning with Communication-Constrained Priors) have been accepted by NeurIPS 2025!
 
 &#x1F195;[May 2025] Our paper (Reducing Variance of Stochastic Optimization for Approximating Nash Equilibria in Normal-Form Games) has been accepted by ICML 2025 as a Spotlight poster (top 2.6%)!
 
