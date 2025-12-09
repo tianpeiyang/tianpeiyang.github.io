@@ -15,13 +15,15 @@ My major research interests focus on deep Reinforcement Learning (RL), multiagen
 
 I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, IEEE TCDS, and IEEE/CAA, and a member of the (senior) program committee (NeurIPS, AAAI, ICLR, IJCAI, ICML, AAMAS, UAI, ICRA, CoRL, CIKM, ECAI, DAI).
 
-`I am looking for research assistants (master/PhD students starting in Fall 2027), interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal.`
+`I am looking for research assistants/postdocs (master/PhD students starting in Fall 2027), interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal.`
 
 Recent News
 ======
 
 2025
 --
+&#x1F195;[Nov 2025] Two papers (Faster Game Solving via Asymmetry of Step Sizes, Causality-Aware Efficient Exploration for Cooperative Multi-Agent Reinforcement Learning) have been accepted by AAAI 2026!
+
 &#x1F195;[Sep 2025] Two papers (Parameter-Free Last-Iterate Convergence of Counterfactual Regret Minimization Algorithms, Multi-Agent Reinforcement Learning with Communication-Constrained Priors) have been accepted by NeurIPS 2025!
 
 &#x1F195;[May 2025] Our paper (Reducing Variance of Stochastic Optimization for Approximating Nash Equilibria in Normal-Form Games) has been accepted by ICML 2025 as a Spotlight poster (top 2.6%)!
@@ -58,23 +60,15 @@ Recent News
 
 &#x1F195;[Oct 2023] Our paper ([ASN: Action Semantics Network for Multiagent Reinforcement Learning](https://dl.acm.org/doi/abs/10.1007/s10458-023-09628-3)) has been accepted by Autonomous Agents and Multi-Agent Systems (JAAMAS)!
 
-&#x1F195;[July-Sep 2023] I was invited as a PC of AAAI 2024, ICRA 2024, ICLR 2024, and AAMAS 2024!
-
 &#x1F195;[May 2023] I was invited as an area chair of ([MRS 2023](https://sites.bu.edu/mrs2023/committee/))!
 
 &#x1F195;[Apr 2023] Our paper ([T3S: Improving Multi-Task Reinforcement Learning with Task-Specific Feature Selector and Scheduler](https://ieeexplore.ieee.org/abstract/document/10191536)) got accepted at IJCNN 2023!
-
-&#x1F195;[Mar 2023] I was invited as a PC of NeurIPS 2023 and CoRL 2023!
-
-&#x1F195;[Jan 2023] I was invited as a PC of UAI 2023!
 
 &#x1F195;[Jan 2023] Our paper ([Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain](https://ieeexplore.ieee.org/abstract/document/10021988)) got accepted at IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!
 Two papers ([PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3545946.3598967), [Transfer Learning based Agent for Automated Negotiation](https://dl.acm.org/doi/abs/10.5555/3545946.3599115)) got accepted at AAMAS 2023 as Extended Abstract!
 
 2022
 --
-&#x1F195;  [Dec 2022] I was invited as a PC of IJCAI 2023 and ICML 2023!
-
 &#x1F195;  [Nov 2022] Our paper ([Learning to Shape Rewards using a Game of Two Partners](https://ojs.aaai.org/index.php/AAAI/article/view/26371)) got accepted at AAAI 2023! One paper (Efficient Deep Reinforcement Learning via Policy-extended Successor Feature Approximator) got accepted at DAI 2022!
 
 &#x1F195;  [Sep 2022] Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://openreview.net/forum?id=XSV1T9jMuz9)) got accepted at NeurIPS 2022!
@@ -90,21 +84,17 @@ Selected Publications
 
 3. ASN: Action Semantics Network for Multiagent Reinforcement Learning. **Tianpei Yang** et al. JAAMAS. 2023. [url](https://dl.acm.org/doi/abs/10.1007/s10458-023-09628-3)
 
-4. Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain. Jianye Hao, **Tianpei Yang** (Student first author) et al. TNNLS. 2023. [url](https://ieeexplore.ieee.org/abstract/document/10021988)
+4. GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis. Yushi Cao, Zhiming Li, **Tianpei Yang*** (Corresponding author) et al. NeurIPS. 2022. [url](https://openreview.net/forum?id=XSV1T9jMuz9)
 
-5. GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis. Yushi Cao, Zhiming Li, **Tianpei Yang*** (Corresponding author) et al. NeurIPS. 2022. [url](https://openreview.net/forum?id=XSV1T9jMuz9)
+5. Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence. Heng You, **Tianpei Yang*** (Corresponding author) et al. UAI. 2022.[url](https://proceedings.mlr.press/v180/you22a.html) 
 
-6. Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence. Heng You, **Tianpei Yang*** (Corresponding author) et al. UAI. 2022.[url](https://proceedings.mlr.press/v180/you22a.html) 
+6. An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning. **Tianpei Yang** et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
 
-7. An Efficient Transfer Learning Framework for Multiagent Reinforcement Learning. **Tianpei Yang** et al. NeurIPS. 2021. [url](https://proceedings.neurips.cc/paper/2021/hash/8d9a6e908ed2b731fb96151d9bb94d49-Abstract.html)
+7. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. **Tianpei Yang** et al. IJCAI. 2020. [url](https://www.ijcai.org/proceedings/2020/428) 
 
-8. Efficient Deep Reinforcement Learning via Adaptive Policy Transfer. **Tianpei Yang** et al. IJCAI. 2020. [url](https://www.ijcai.org/proceedings/2020/428) 
+8. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [url](https://ojs.aaai.org//index.php/AAAI/article/view/6221)
 
-9. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [url](https://ojs.aaai.org//index.php/AAAI/article/view/6221)
-
-10. Action semantics network: Considering the effects of actions in multiagent systems. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. ICLR. 2020. [url](https://openreview.net/forum?id=ryg48p4tPH)
-
-11. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. **Tianpei Yang** et al. IJCAI. 2019. [url](https://www.ijcai.org/proceedings/2019/88) 
+9. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. **Tianpei Yang** et al. IJCAI. 2019. [url](https://www.ijcai.org/proceedings/2019/88) 
 
 <a href="https://tianpeiyang.github.io/publications">more papers</a>
 
