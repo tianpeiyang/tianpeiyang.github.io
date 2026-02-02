@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello there, I am currently an Assistant Professor in [Reasoning and Learning Research Group](https://cs.nju.edu.cn/rl/) led by Yang Gao, at [School of Intelligence Science and Technology](https://is.nju.edu.cn/main.htm) at Nanjing University. Before this, I was a Postdoctoral Researcher in [Intelligent Robot Learning Lab](https://irll.ca/) and [RLAI](http://rlai.ualberta.ca/) at University of Alberta from 2021 to 2024. I received my Ph.D. in 2021 at Tianjin University, supervised by [Jianye Hao](http://www.icdai.org/jianye.html). My PhD thesis is titled ‘Efficient Deep Multiagent Reinforcement Learning Based on Transfer Learning’.
+Hello there, I am currently an Associate Professor in [Reasoning and Learning Research Group](https://cs.nju.edu.cn/rl/) led by Yang Gao, at [School of Intelligence Science and Technology](https://is.nju.edu.cn/main.htm) at Nanjing University. Before this, I was a Postdoctoral Researcher in [Intelligent Robot Learning Lab](https://irll.ca/) and [RLAI](http://rlai.ualberta.ca/) at University of Alberta from 2021 to 2024. I received my Ph.D. in 2021 at Tianjin University, supervised by [Jianye Hao](http://www.icdai.org/jianye.html). My PhD thesis is titled ‘Efficient Deep Multiagent Reinforcement Learning Based on Transfer Learning’.
 
 My major research interests focus on deep Reinforcement Learning (RL), multiagent systems, and AI Agent, especially in building intelligent agents with complex reasoning ability, high efficiency, generalization, and scalability through transfer/multi-task learning, hierarchical learning, and opponent modeling. I am also interested in exploring continuous learning in open scenarios. Currently, I am working on 1) how to effectively and efficiently build AI agents upon generative AI and RL techniques; 2) how to effectively transfer knowledge in cross-domain settings; 3) how to improve MARL exploration considering the communication protocol and causal effect; 4) how to improve RL generalization and interpretability via symbolic planning/causal reasoning/program synthesis. 
 
@@ -19,6 +19,9 @@ I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, I
 
 Recent News
 ======
+2026
+--
+&#x1F195;[JAN 2025] One paper (SafeDialBench: A Fine-Grained Safety Evaluation Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks) has been accepted by ICLR 2026!
 
 2025
 --
