@@ -13,6 +13,34 @@ author_profile: true
 <h2 class="talks-page__heading" id="invited-talks">Invited Talks</h2>
 <ul class="talks-page__list">
 <li class="talks-page__item">
+  <time class="talks-page__date" datetime="2026-07">March 2026</time>
+  <div class="talks-page__content">
+    <h3 class="talks-page__title">The Evolving and Challenge of Reinforcement Learning in the Era of Agent</h3>
+    <p class="talks-page__detail">I was invited to give a talk at CSIG Youth Scientist Conference 2026 (Kunming, China).</p>
+  </div>
+</li>
+<li class="talks-page__item">
+  <time class="talks-page__date" datetime="2026-03">March 2026</time>
+  <div class="talks-page__content">
+    <h3 class="talks-page__title">The Evolving and Challenge of Reinforcement Learning in the Era of Agent</h3>
+    <p class="talks-page__detail">I was invited to give a talk at CCDE 2026 (Suzhou, China).</p>
+  </div>
+</li>
+<li class="talks-page__item">
+  <time class="talks-page__date" datetime="2025-08">Aug 2025</time>
+  <div class="talks-page__content">
+    <h3 class="talks-page__title">Recent Advance in Multi-agent Reinforcement Learning and AI Agent</h3>
+    <p class="talks-page__detail">I was invited to give a talk at CSML 2025 (Beijing, China).</p>
+  </div>
+</li>
+<li class="talks-page__item">
+  <time class="talks-page__date" datetime="2025-06">June 2025</time>
+  <div class="talks-page__content">
+    <h3 class="talks-page__title">Recent Advance in Multi-agent Reinforcement Learning and AI Agent</h3>
+    <p class="talks-page__detail">I was invited to give a talk at CMAS 2025 (Xi'an, China).</p>
+  </div>
+</li>
+<li class="talks-page__item">
   <time class="talks-page__date" datetime="2024-11">Nov 2024</time>
   <div class="talks-page__content">
     <h3 class="talks-page__title">A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models</h3>
