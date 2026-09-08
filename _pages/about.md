@@ -15,16 +15,18 @@ My major research interests focus on deep Reinforcement Learning (RL), multiagen
 
 I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, IEEE TCDS, and IEEE/CAA, and a member of the (senior) program committee (NeurIPS, AAAI, ICLR, IJCAI, ICML, AAMAS, UAI, ICRA, CoRL, CIKM, ECAI, DAI).
 
-`I am looking for research assistants/postdocs (master/PhD students starting in Fall 2027), interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal.`
+`I am looking for research assistants/postdocs (master starting in Fall 2027/PhD students starting in Fall 2028), interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal.`
 
-Recent News
+News
 ======
 
 2026
 --
-&#x1F195;[Apr 2025] Two papers (Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning, MDTeamGPT: Mitigating Context Collapse and Enabling Self-Evolution in Medical Multi-Agent Reasoning) have been accepted by ACL 2026!
+&#x1F195;[Aug 2026] One paper (The Evolutionary Trajectory of Medical Multi-Agent Systems: A Survey) has been accepted by EMNLP 2026!
 
-&#x1F195;[JAN 2025] One paper (SafeDialBench: A Fine-Grained Safety Evaluation Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks) has been accepted by ICLR 2026!
+&#x1F195;[Apr 2026] Two papers (Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning, MDTeamGPT: Mitigating Context Collapse and Enabling Self-Evolution in Medical Multi-Agent Reasoning) have been accepted by ACL 2026!
+
+&#x1F195;[JAN 2026] One paper (SafeDialBench: A Fine-Grained Safety Evaluation Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks) has been accepted by ICLR 2026!
 
 2025
 --
@@ -82,7 +84,7 @@ Two papers ([PORTAL: Automatic Curricula Generation for Multiagent Reinforcement
 &#x1F195;  [May 2022] Our paper ([Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence](https://proceedings.mlr.press/v180/you22a.html)) got accepted at UAI 2022! One paper ([PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration](https://proceedings.mlr.press/v162/li22s.html)) got accepted at ICML 2022!
 
 
-Selected Publications
+Publications (To be updated)
 ======
 1. A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning. **Tianpei Yang** et al. AAAI. 2024. [url](https://ojs.aaai.org/index.php/AAAI/article/view/29571)
    
@@ -101,6 +103,8 @@ Selected Publications
 8. From Few to More: Large-scale Dynamic Multiagent Curriculum Learning. Weixun Wang (Equal contribution), **Tianpei Yang** (Equal contribution) et al. AAAI. 2020. [url](https://ojs.aaai.org//index.php/AAAI/article/view/6221)
 
 9. Towards Efficient Detection and Optimal Response against Sophisticated Opponents. **Tianpei Yang** et al. IJCAI. 2019. [url](https://www.ijcai.org/proceedings/2019/88) 
+
+To be updated
 
 <a href="https://tianpeiyang.github.io/publications">more papers</a>
 
