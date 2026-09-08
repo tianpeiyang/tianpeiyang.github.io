@@ -17,72 +17,128 @@ I am currently serving as a reviewer for JMLR, TPAMI, TNNLS, TMLR, MACH, JMLC, I
 
 `I am looking for research assistants/postdocs (master starting in Fall 2027/PhD students starting in Fall 2028), interested in (deep) reinforcement learning, multiagent learning, or AI Agents. If you are interested and have good programming skills and a reinforcement learning background, please email me your CV, transcripts, and future research proposal.`
 
-News
-======
-
-2026
---
-&#x1F195;[Aug 2026] One paper (The Evolutionary Trajectory of Medical Multi-Agent Systems: A Survey) has been accepted by EMNLP 2026!
-
-&#x1F195;[Apr 2026] Two papers (Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning, MDTeamGPT: Mitigating Context Collapse and Enabling Self-Evolution in Medical Multi-Agent Reasoning) have been accepted by ACL 2026!
-
-&#x1F195;[JAN 2026] One paper (SafeDialBench: A Fine-Grained Safety Evaluation Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks) has been accepted by ICLR 2026!
-
-2025
---
-&#x1F195;[Nov 2025] Two papers (Faster Game Solving via Asymmetry of Step Sizes, Causality-Aware Efficient Exploration for Cooperative Multi-Agent Reinforcement Learning) have been accepted by AAAI 2026!
-
-&#x1F195;[Sep 2025] Two papers (Parameter-Free Last-Iterate Convergence of Counterfactual Regret Minimization Algorithms, Multi-Agent Reinforcement Learning with Communication-Constrained Priors) have been accepted by NeurIPS 2025!
-
-&#x1F195;[May 2025] Our paper (Reducing Variance of Stochastic Optimization for Approximating Nash Equilibria in Normal-Form Games) has been accepted by ICML 2025 as a Spotlight poster (top 2.6%)!
-
-&#x1F195;[Apr 2025] One paper ([The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning](https://arxiv.org/abs/2502.15214)) has been accepted by IJCAI 2025 Survey Track! 
-
-&#x1F195;[Jan 2025] Two papers (Towards Empowerment Gain through Causal Structure Learning in Model-Based RL, Causal Information Prioritization for Efficient Reinforcement Learning) have been accepted by ICLR 2025! 
-
-2024
---
-&#x1F195;[Dec 2024] Two papers (Empowering Generalization for Deep Reinforcement Learning via Symbolic Planning, Taming Multi-Agent Reinforcement Learning with Estimator Variance Reduction) have been accepted by AAMAS 2025! 
-
-&#x1F195;[Nov 2024] I recently joined [School of Intelligence Science and Technology at Nanjing University (Suzhou)](https://is.nju.edu.cn/main.htm) as an Assistant Professor! 
-
-&#x1F195;[Aug 2024] I gave a talk at [InterPol workshop 2024](https://sites.google.com/view/interppol-workshop/program?authuser=0) at RLC 2024!
-
-&#x1F195;[June 2024] I was invited as an area chair of AAMAS 2025!
-
-&#x1F195;[Apr 2024] Our paper [A survey on interpretable reinforcement learning](https://link.springer.com/article/10.1007/s10994-024-06543-w) has been published on Machine Learning! 
-
-&#x1F195;[Mar 2024] One paper (FPGA Divide-and-Conquer Placement using Deep Reinforcement Learning) has been accepted by ISEDA 2024! 
-
-&#x1F195;[Feb 2024] Our paper (LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models) received a Best Paper Runner-Up award from the [HCRL@AAAI-24 workshop](https://hcrl-workshop.github.io/2024/papers.html)!
-
-2023
---
-&#x1F195;[Dec 2023] Two papers (PADDLE: Logic Program Guided Policy Reuse in Deep Reinforcement Learning, Mastering Robot Control through Point-based Reinforcement Learning with Pre-training) have been accepted by AAMAS 2024! 
-
-&#x1F195;[Dec 2023] Two papers (A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning, PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning) have been accepted by AAAI 2024! One paper (LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models) has been accepted by AAAI 2024 Workshop on Human-Centric Representation Learning!
-
-&#x1F195;[Nov 2023] Our paper (Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities) has been accepted by Journal of Artificial Intelligence Research (JAIR)!
-
-&#x1F195;[Oct 2023] Two papers (PADDLE: Logic Program Guided Policy Reuse in Deep Reinforcement Learning, Work-in-Progress: Using Symbolic Planning with Deep RL) have been accepted by GenPlan Workshop NeurIPS 2023! One paper (Reinforcement Learning for FPGA Placement) has been accepted by MlSys Workshop NeurIPS 2023!
-
-&#x1F195;[Oct 2023] Our paper ([ASN: Action Semantics Network for Multiagent Reinforcement Learning](https://dl.acm.org/doi/abs/10.1007/s10458-023-09628-3)) has been accepted by Autonomous Agents and Multi-Agent Systems (JAAMAS)!
-
-&#x1F195;[May 2023] I was invited as an area chair of ([MRS 2023](https://sites.bu.edu/mrs2023/committee/))!
-
-&#x1F195;[Apr 2023] Our paper ([T3S: Improving Multi-Task Reinforcement Learning with Task-Specific Feature Selector and Scheduler](https://ieeexplore.ieee.org/abstract/document/10191536)) got accepted at IJCNN 2023!
-
-&#x1F195;[Jan 2023] Our paper ([Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain](https://ieeexplore.ieee.org/abstract/document/10021988)) got accepted at IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!
-Two papers ([PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3545946.3598967), [Transfer Learning based Agent for Automated Negotiation](https://dl.acm.org/doi/abs/10.5555/3545946.3599115)) got accepted at AAMAS 2023 as Extended Abstract!
-
-2022
---
-&#x1F195;  [Nov 2022] Our paper ([Learning to Shape Rewards using a Game of Two Partners](https://ojs.aaai.org/index.php/AAAI/article/view/26371)) got accepted at AAAI 2023! One paper (Efficient Deep Reinforcement Learning via Policy-extended Successor Feature Approximator) got accepted at DAI 2022!
-
-&#x1F195;  [Sep 2022] Our paper ([GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis](https://openreview.net/forum?id=XSV1T9jMuz9)) got accepted at NeurIPS 2022!
-
-&#x1F195;  [May 2022] Our paper ([Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence](https://proceedings.mlr.press/v180/you22a.html)) got accepted at UAI 2022! One paper ([PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration](https://proceedings.mlr.press/v162/li22s.html)) got accepted at ICML 2022!
-
+<section class="home-news" aria-labelledby="news-heading">
+<h1 id="news-heading">News</h1>
+<h2 class="home-news__year">2026</h2>
+<ul class="home-news__list">
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2026-08">Aug 2026</time>
+  <div class="home-news__body">One paper (The Evolutionary Trajectory of Medical Multi-Agent Systems: A Survey) has been accepted by EMNLP 2026!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2026-04">Apr 2026</time>
+  <div class="home-news__body">Two papers (Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning, MDTeamGPT: Mitigating Context Collapse and Enabling Self-Evolution in Medical Multi-Agent Reasoning) have been accepted by ACL 2026!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2026-01">Jan 2026</time>
+  <div class="home-news__body">One paper (SafeDialBench: A Fine-Grained Safety Evaluation Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks) has been accepted by ICLR 2026!</div>
+</li>
+</ul>
+<h2 class="home-news__year">2025</h2>
+<ul class="home-news__list">
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2025-11">Nov 2025</time>
+  <div class="home-news__body">Two papers (Faster Game Solving via Asymmetry of Step Sizes, Causality-Aware Efficient Exploration for Cooperative Multi-Agent Reinforcement Learning) have been accepted by AAAI 2026!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2025-09">Sep 2025</time>
+  <div class="home-news__body">Two papers (Parameter-Free Last-Iterate Convergence of Counterfactual Regret Minimization Algorithms, Multi-Agent Reinforcement Learning with Communication-Constrained Priors) have been accepted by NeurIPS 2025!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2025-05">May 2025</time>
+  <div class="home-news__body">Our paper (Reducing Variance of Stochastic Optimization for Approximating Nash Equilibria in Normal-Form Games) has been accepted by ICML 2025 as a Spotlight poster (top 2.6%)!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2025-04">Apr 2025</time>
+  <div class="home-news__body">One paper (<a href="https://arxiv.org/abs/2502.15214">The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning</a>) has been accepted by IJCAI 2025 Survey Track!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2025-01">Jan 2025</time>
+  <div class="home-news__body">Two papers (Towards Empowerment Gain through Causal Structure Learning in Model-Based RL, Causal Information Prioritization for Efficient Reinforcement Learning) have been accepted by ICLR 2025!</div>
+</li>
+</ul>
+<h2 class="home-news__year">2024</h2>
+<ul class="home-news__list">
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2024-12">Dec 2024</time>
+  <div class="home-news__body">Two papers (Empowering Generalization for Deep Reinforcement Learning via Symbolic Planning, Taming Multi-Agent Reinforcement Learning with Estimator Variance Reduction) have been accepted by AAMAS 2025!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2024-11">Nov 2024</time>
+  <div class="home-news__body">I recently joined <a href="https://is.nju.edu.cn/main.htm">School of Intelligence Science and Technology at Nanjing University (Suzhou)</a> as an Assistant Professor!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2024-08">Aug 2024</time>
+  <div class="home-news__body">I gave a talk at <a href="https://sites.google.com/view/interppol-workshop/program?authuser=0">InterPol workshop 2024</a> at RLC 2024!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2024-06">June 2024</time>
+  <div class="home-news__body">I was invited as an area chair of AAMAS 2025!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2024-04">Apr 2024</time>
+  <div class="home-news__body">Our paper <a href="https://link.springer.com/article/10.1007/s10994-024-06543-w">A survey on interpretable reinforcement learning</a> has been published on Machine Learning!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2024-03">Mar 2024</time>
+  <div class="home-news__body">One paper (FPGA Divide-and-Conquer Placement using Deep Reinforcement Learning) has been accepted by ISEDA 2024!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2024-02">Feb 2024</time>
+  <div class="home-news__body">Our paper (LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models) received a Best Paper Runner-Up award from the <a href="https://hcrl-workshop.github.io/2024/papers.html">HCRL@AAAI-24 workshop</a>!</div>
+</li>
+</ul>
+<h2 class="home-news__year">2023</h2>
+<ul class="home-news__list">
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2023-12">Dec 2023</time>
+  <div class="home-news__body">Two papers (PADDLE: Logic Program Guided Policy Reuse in Deep Reinforcement Learning, Mastering Robot Control through Point-based Reinforcement Learning with Pre-training) have been accepted by AAMAS 2024!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2023-12">Dec 2023</time>
+  <div class="home-news__body">Two papers (A Transfer Approach Using Graph Neural Networks in Deep Reinforcement Learning, PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning) have been accepted by AAAI 2024! One paper (LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models) has been accepted by AAAI 2024 Workshop on Human-Centric Representation Learning!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2023-11">Nov 2023</time>
+  <div class="home-news__body">Our paper (Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities) has been accepted by Journal of Artificial Intelligence Research (JAIR)!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2023-10">Oct 2023</time>
+  <div class="home-news__body">Two papers (PADDLE: Logic Program Guided Policy Reuse in Deep Reinforcement Learning, Work-in-Progress: Using Symbolic Planning with Deep RL) have been accepted by GenPlan Workshop NeurIPS 2023! One paper (Reinforcement Learning for FPGA Placement) has been accepted by MlSys Workshop NeurIPS 2023!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2023-10">Oct 2023</time>
+  <div class="home-news__body">Our paper (<a href="https://dl.acm.org/doi/abs/10.1007/s10458-023-09628-3">ASN: Action Semantics Network for Multiagent Reinforcement Learning</a>) has been accepted by Autonomous Agents and Multi-Agent Systems (JAAMAS)!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2023-05">May 2023</time>
+  <div class="home-news__body">I was invited as an area chair of (<a href="https://sites.bu.edu/mrs2023/committee/">MRS 2023</a>)!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2023-04">Apr 2023</time>
+  <div class="home-news__body">Our paper (<a href="https://ieeexplore.ieee.org/abstract/document/10191536">T3S: Improving Multi-Task Reinforcement Learning with Task-Specific Feature Selector and Scheduler</a>) got accepted at IJCNN 2023!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2023-01">Jan 2023</time>
+  <div class="home-news__body">Our paper (<a href="https://ieeexplore.ieee.org/abstract/document/10021988">Exploration in Deep Reinforcement Learning: From Single-Agent to Multi-Agent Domain</a>) got accepted at IEEE Transactions on Neural Networks and Learning Systems (TNNLS)! Two papers (<a href="https://dl.acm.org/doi/abs/10.5555/3545946.3598967">PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning</a>, <a href="https://dl.acm.org/doi/abs/10.5555/3545946.3599115">Transfer Learning based Agent for Automated Negotiation</a>) got accepted at AAMAS 2023 as Extended Abstract!</div>
+</li>
+</ul>
+<h2 class="home-news__year">2022</h2>
+<ul class="home-news__list">
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2022-11">Nov 2022</time>
+  <div class="home-news__body">Our paper (<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26371">Learning to Shape Rewards using a Game of Two Partners</a>) got accepted at AAAI 2023! One paper (Efficient Deep Reinforcement Learning via Policy-extended Successor Feature Approximator) got accepted at DAI 2022!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2022-09">Sep 2022</time>
+  <div class="home-news__body">Our paper (<a href="https://openreview.net/forum?id=XSV1T9jMuz9">GALOIS: Boosting Deep Reinforcement Learning via Generalizable Logic Synthesis</a>) got accepted at NeurIPS 2022!</div>
+</li>
+<li class="home-news__item">
+  <time class="home-news__date" datetime="2022-05">May 2022</time>
+  <div class="home-news__body">Our paper (<a href="https://proceedings.mlr.press/v180/you22a.html">Cross-domain Adaptive Transfer Reinforcement Learning Based on State-Action Correspondence</a>) got accepted at UAI 2022! One paper (<a href="https://proceedings.mlr.press/v162/li22s.html">PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration</a>) got accepted at ICML 2022!</div>
+</li>
+</ul>
+</section>
 
 Publications (To be updated)
 ======

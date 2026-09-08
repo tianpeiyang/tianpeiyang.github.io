@@ -1,0 +1,12 @@
+.page__content .home-news { margin: 2.5rem 0; }
+.page__content .home-news__year { margin: 1.75rem 0 .5rem; color: #526575; font-size: 1.05em; letter-spacing: .04em; }
+.page__content .home-news__list { margin: 0 0 1.5rem .3rem; padding: 0; list-style: none; border-left: 2px solid #dde6ec; }
+.page__content .home-news__item { position: relative; display: grid; grid-template-columns: 6.2em minmax(0, 1fr); gap: .8em; margin: 0; padding: .85em 0 .85em 1.35em; line-height: 1.65; }
+.page__content .home-news__item::before { content: ""; position: absolute; left: -6px; top: 1.35em; width: 10px; height: 10px; border-radius: 50%; background: #287ca0; box-shadow: 0 0 0 4px #fff; }
+.page__content .home-news__item + .home-news__item { border-top: 1px solid #edf1f4; }
+.page__content .home-news__date { color: #526575; font-size: .88em; font-weight: 600; white-space: nowrap; padding-top: .12em; font-variant-numeric: tabular-nums; }
+.page__content .home-news__body { min-width: 0; overflow-wrap: anywhere; }
+.page__content .home-news__body a { text-underline-offset: .15em; }
+@media (max-width: 600px) {
+  .page__content .home-news__item { grid-template-columns: minmax(0, 1fr); gap: .2em; padding-left: 1.1em; }
+}
